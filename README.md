@@ -7,7 +7,7 @@ Hotkey Launcher is a native macOS menu bar app for launching apps and folders wi
 - Latest DMG -> [Hotkey-Launcher.dmg](https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey-Launcher.dmg)
 - Latest release page -> https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest
 - File size -> 2.9 MB
-- SHA-256 -> `8ee567e50e8c16ecc44123f456e83b3e1834e639f118de4a83eb026bab7ef6ec`
+- SHA-256 -> `19133244e4c5606699cea2f19b8bb5ad68a38e6d8cadb7714704a570a638ede6`
 
 ## Install
 
