@@ -6,11 +6,11 @@ Hotkey Launcher는 macOS 메뉴 막대에서 실행되는 Swift 네이티브 단
 
 최신 DMG:
 
-https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey.Launcher.dmg
+https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey-Launcher.dmg
 
 ## 설치
 
-1. `Hotkey.Launcher.dmg`를 엽니다.
+1. `Hotkey-Launcher.dmg`를 엽니다.
 2. `Hotkey Launcher.app`을 `Applications` 폴더로 드래그합니다.
 3. `/Applications/Hotkey Launcher.app`을 실행합니다.
 4. 전역 단축키와 텍스트 치환을 사용하려면 macOS `시스템 설정` -> `개인정보 보호 및 보안`에서 `손쉬운 사용`과 `입력 모니터링` 권한을 허용합니다.
@@ -27,5 +27,5 @@ https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/
 ## 릴리스
 
 - 최신 버전: `v2.05`
-- DMG 파일명: `Hotkey.Launcher.dmg`
+- DMG 파일명: `Hotkey-Launcher.dmg`
 - SHA-256: `19133244e4c5606699cea2f19b8bb5ad68a38e6d8cadb7714704a570a638ede6`
