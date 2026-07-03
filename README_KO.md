@@ -26,6 +26,6 @@ https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/
 
 ## 릴리스
 
-- 최신 버전: `v2.04`
+- 최신 버전: `v2.05`
 - DMG 파일명: `Hotkey.Launcher.dmg`
 - SHA-256: `19133244e4c5606699cea2f19b8bb5ad68a38e6d8cadb7714704a570a638ede6`

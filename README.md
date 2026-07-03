@@ -20,7 +20,7 @@ If macOS asks for permissions, enable `Hotkey Launcher` in Accessibility and Inp
 
 ## Version
 
-Latest release: `v2.04`
+Latest release: `v2.05`
 
 SHA-256:
 
