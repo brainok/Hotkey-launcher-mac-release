@@ -1,41 +1,27 @@
-# Hotkey Launcher for macOS
+# Hotkey Launcher
 
-Hotkey Launcher is a native macOS menu bar app for launching apps and folders with global hotkeys, expanding short text triggers into longer phrases, and managing offline activation.
+Latest DMG:
 
-## Download
+-> https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey%20Launcher.dmg
 
-- Latest DMG -> [Hotkey-Launcher.dmg](https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey-Launcher.dmg)
-- Latest release page -> https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest
-- File size -> 2.9 MB
-- SHA-256 -> `19133244e4c5606699cea2f19b8bb5ad68a38e6d8cadb7714704a570a638ede6`
+Hotkey Launcher is a native macOS menu bar app for launching apps and folders with global hotkeys, expanding text snippets, and managing activation offline.
 
 ## Install
 
-1. Download the DMG file.
-2. Open the DMG.
-3. Drag `Hotkey Launcher.app` into `Applications`.
-4. Run `/Applications/Hotkey Launcher.app`.
+-> Download the latest DMG from the link above
 
-Important: Do not run the app directly from inside the DMG. Move it to `/Applications` first.
+-> Open `Hotkey Launcher.dmg`
 
-## Permissions
+-> Drag `Hotkey Launcher.app` into `Applications`
 
-Global hotkeys and text expansion require macOS permissions:
+-> Launch it from Applications
 
-- System Settings -> Privacy & Security -> Accessibility -> enable `Hotkey Launcher`
-- System Settings -> Privacy & Security -> Input Monitoring -> enable `Hotkey Launcher`
+If macOS asks for permissions, enable `Hotkey Launcher` in Accessibility and Input Monitoring, then restart the app.
 
-After changing permissions, quit Hotkey Launcher completely and open it again.
+## Version
 
-## Main Features
+Latest release: `v2.04`
 
-- App Launcher -> register apps and launch them from anywhere with global hotkeys
-- Folder Launcher -> open frequent folders in Finder with hotkeys
-- Text Expansion -> type short triggers and expand them into saved phrases
-- Menu Bar Controls -> settings, activation, reload, dark mode, launch at login, about, quit
-- Offline Activation -> 30-day trial, then Activation Code
+SHA-256:
 
-## System Requirements
-
-- macOS 13 Ventura or later
-- Apple Silicon Mac
+`19133244e4c5606699cea2f19b8bb5ad68a38e6d8cadb7714704a570a638ede6`
