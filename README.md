@@ -2,7 +2,7 @@
 
 Latest DMG:
 
--> https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey%20Launcher.dmg
+-> https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/Hotkey.Launcher.dmg
 
 Hotkey Launcher is a native macOS menu bar app for launching apps and folders with global hotkeys, expanding text snippets, and managing activation offline.
 
@@ -10,7 +10,7 @@ Hotkey Launcher is a native macOS menu bar app for launching apps and folders wi
 
 -> Download the latest DMG from the link above
 
--> Open `Hotkey Launcher.dmg`
+-> Open `Hotkey.Launcher.dmg`
 
 -> Drag `Hotkey Launcher.app` into `Applications`
 
