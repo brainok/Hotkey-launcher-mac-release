@@ -26,6 +26,6 @@ https://github.com/brainok/Hotkey-launcher-mac-release/releases/latest/download/
 
 ## Release
 
-- Latest version: `v2.05`
+- Latest version: `v2.06`
 - DMG filename: `Hotkey-Launcher.dmg`
-- SHA-256: `19133244e4c5606699cea2f19b8bb5ad68a38e6d8cadb7714704a570a638ede6`
+- SHA-256: `e19b6646cbe26a19bfd2eff5c66f1149d32b56c46a71175e4ae9df5c0d3c433c`
